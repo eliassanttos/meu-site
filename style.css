@@ -29,12 +29,12 @@ h4 {
 }
 
 .description {
-  font-size: 17px;
-  color: #08090b;
+  font-size: 16px;
+  color: #191970;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.836);
   max-width: 850px;
   padding: 10px;
-  background-color: #fff;
+  background-color: #B0E0E6;
   margin-top: 20px;
   justify-content: center;
 }

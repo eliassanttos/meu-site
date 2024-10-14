@@ -38,20 +38,3 @@ h4 {
   margin-top: 20px;
   justify-content: center;
 }
-
-footer {
-  text-align: center;
-  font-size: 16px;
-  font-weight: 200;
-  padding: 50px;
-}
-
-#lucas {
-  font-weight: bold;
-}
-
-#lucas:hover {
-  color: crimson;
-  opacity: 0.8;
-  transition: 0.5s;
-}

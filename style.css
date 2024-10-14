@@ -1,6 +1,6 @@
 body {
-  font-size: 26px;
-  background: #f1f1f1;
+  font-size: 20px;
+  background: #000000;
   font-family: Roboto, sans-serif;
 }
 
@@ -31,11 +31,11 @@ h4 {
 
 .description {
   font-size: 16px;
-  color: #191970;
+  color: #DC143C;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.836);
   max-width: 1000px;
   padding: 12px;
-  background-color: #B0E0E6;
+  background-color: #ffffff;
   margin-top: 20px;
   justify-content: center;
 }
